@@ -1,0 +1,30 @@
+Invisible Man
+Ralph Ellison
+British Magazine Horizon
+80
+15
+The Alchemist
+Paulo Coelho
+HarperOne
+349.5
+10
+Clean Code
+Robert C. Martin
+Prentice Hall
+599.99
+5
+Atomic Habits
+James Clear
+Penguin
+450
+8
+Introduction to Algorithms
+Thomas H. Cormen
+MIT Press
+799
+2
+The Psychology of Money
+Morgan Housel
+Jaico Publishing
+299
+7

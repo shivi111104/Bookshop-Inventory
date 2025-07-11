@@ -1,0 +1,4 @@
+admin admin123 admin
+john user123 customer
+alice abc123 customer
+sara writer2024 admin
